@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.theotherleaf.com/</loc>
+    <loc>https://theotherleaf.com/</loc>
     <xhtml:link 
                rel="alternate"
                hreflang="zh-Hant"
-               href="https://www.theotherleaf.com/"/>
+               href="https://theotherleaf.com/"/>
     <xhtml:link 
                rel="alternate"
                hreflang="en"
-               href="https://www.theotherleaf.com/en/"/>
+               href="https://theotherleaf.com/en/"/>
   </url>
   <url>
-    <loc>https://www.theotherleaf.com/en/</loc>
+    <loc>https://theotherleaf.com/en/</loc>
     <xhtml:link 
                rel="alternate"
                hreflang="en"
-               href="https://www.theotherleaf.com/en/"/>
+               href="https://theotherleaf.com/en/"/>
     <xhtml:link 
                rel="alternate"
                hreflang="zh-Hant"
-               href="https://www.theotherleaf.com/"/>
+               href="https://theotherleaf.com/"/>
   </url>
 </urlset>
